@@ -1,2 +1,3 @@
-# fernandezs.github.io
-_config.yml 
+ site fernandezs.github.io
+
+esse foi o projeto onde eu aprendi a fazer .......
